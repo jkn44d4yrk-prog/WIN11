@@ -946,7 +946,7 @@ const questions = [
       "C": "Seleccionando el archivo y presionando \"Enter\".",
       "D": "No se puede cambiar el nombre de los archivos."
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 87,
@@ -990,7 +990,7 @@ const questions = [
       "C": "Haciendo clic en el icono del \"Explorador de archivos\" en la barra de tareas.",
       "D": "No es posible acceder desde el \"Centro de actividades\"."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 91,
@@ -1384,9 +1384,9 @@ const questions = [
       "A": "Permite restaurar configuraciones predeterminadas.",
       "B": "Restaura archivos eliminados desde la papelera de reciclaje.",
       "C": "Restaura notificaciones anteriores que fueron eliminadas.",
-      "D": "Elimina permanentemente todas las notificaciones."
+      "D": "NO EXISTE LA OPCIÓN RESTAURAR."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 127,
@@ -1458,7 +1458,7 @@ const questions = [
     "id": 133,
     "question": "133. ¿Qué acción realiza la opción \"Anclar a inicio\" en Windows 11?",
     "options": {
-      "A": "Añadir una aplicación a la barra de tareas para acceso rápido.",
+      "A": "Añadir una aplicación aL MENU INICIO.",
       "B": "Eliminar una aplicación de la lista de inicio.",
       "C": "Cambiar el nombre de una aplicación.",
       "D": "Organizar las aplicaciones por categoría."
@@ -2057,7 +2057,7 @@ const questions = [
       "C": "Seleccionando el archivo y presionando \"Enter\".",
       "D": "Ambas opciones A y C son correctas."
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 188,
@@ -2442,7 +2442,7 @@ const questions = [
       "C": "Desde la \"Vista de tareas\".",
       "D": "No es posible agregar carpetas a la \"Barra de tareas\"."
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 223,
@@ -2530,7 +2530,7 @@ const questions = [
       "C": "Haciendo doble clic sobre el nombre del archivo y escribiendo uno nuevo.",
       "D": "No es posible cambiar el nombre de un archivo."
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 231,
@@ -2624,7 +2624,7 @@ const questions = [
     "id": 239,
     "question": "239. ¿Cómo puedes personalizar los iconos en el \"Explorador de archivos\"?",
     "options": {
-      "A": "Desde \"Configuración\" -> \"Personalización\" -> \"Iconos\".",
+      "A": "Desde \"Configuración\" -> \"Personalización\" -> \"Iconos\". Sólo para los iconos de escritorio.",
       "B": "Usando el \"Administrador de tareas\".",
       "C": "Desde el \"Centro de actividades\".",
       "D": "No es posible personalizar los iconos."
@@ -2706,7 +2706,7 @@ const questions = [
       "C": "Haciendo doble clic sobre el nombre del archivo y escribiendo uno nuevo.",
       "D": "No es posible cambiar el nombre de un archivo."
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 247,
@@ -2860,7 +2860,7 @@ const questions = [
       "C": "Arrastrando los archivos a la posición deseada.",
       "D": "No es posible reorganizar los archivos."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 261,
@@ -2948,7 +2948,7 @@ const questions = [
       "C": "Haciendo doble clic sobre el nombre del archivo y escribiendo uno nuevo.",
       "D": "No es posible cambiar el nombre de un archivo."
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 269,
@@ -3102,7 +3102,7 @@ const questions = [
       "C": "Haciendo doble clic sobre el nombre del archivo y escribiendo uno nuevo.",
       "D": "No es posible cambiar el nombre de un archivo."
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 283,
@@ -3179,7 +3179,7 @@ const questions = [
       "C": "Arrastrando los archivos a la posición deseada.",
       "D": "No es posible reorganizar los archivos."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 290,
